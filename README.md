@@ -1,4 +1,4 @@
-Hi, I'm Tim. 
+Hi, I'm Tim. /n
 Currently enrolled in a software engineering program.
 Completion is due in October of 2022.
 Primary languages are Python and Javascript and skilled in HTML/CSS markup. 
