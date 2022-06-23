@@ -1,8 +1,9 @@
 Hi, I'm Tim. <br>
 Currently enrolled in a software engineering program. <br>
 Completion is due in end of 2022. <br>
-Primary languages are <b>Python</b> and <b>Javascript</b> and skilled in HTML/CSS markup.  <br>
-Also familiar with jQuery, Bootstrap and Flask. <br><hr>
+Primary languages are <b>Python</b> and <b>Javascript</b> and skilled in HTML/CSS.  <br>
+I'm a big fan of SQL! <br>
+Also familiar with Flask, PostgreSQL, SQLAlchemy and Bootstrap<br><hr>
 With 15 years of Sales and Leadership experience I plan to add software development to my skillset to continue to elevate businesses and the customer experience. <br>
 Feel free to check out my Repo's (feedback always welcome) and let's connect.
 <!---
